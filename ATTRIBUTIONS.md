@@ -41,3 +41,5 @@ Leaflet 1.9.4：Copyright (c) 2010-2023, Vladimir Agafonkin; Copyright (c) 2010-
 OpenStreetMap底圖：© OpenStreetMap contributors，https://www.openstreetmap.org/copyright 。底圖使用遵循原服務政策，不保證離線可用。
 
 首頁示意插畫、favicon及分享預覽圖為本專題自行繪製，非實景。
+
+`solar-share-20261119-v2.jpg`使用上述農田水利署2022年報烏山頭水庫照片，經裁切、深色遮罩及文字排版製成1200×630分享封面，依同一政府資料開放授權條款引用並標明改作。本圖不是目前案場狀態照片。
